@@ -1,0 +1,11 @@
+{
+  "name": "autopr-core-loop-run446",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node --check index.js",
+    "lint": "node --check index.js",
+    "test": "node --test"
+  }
+}
